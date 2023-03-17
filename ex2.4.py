@@ -51,4 +51,4 @@ if __name__ == "__main__":
     plt.xlabel("Elements")
     plt.ylabel("Seconds")
     plt.xticks(records)
-    plt.show()
+    plt.show() 
